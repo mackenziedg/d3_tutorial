@@ -1,5 +1,5 @@
 1. Replace the stock dataset `graph.csv` with a different one.  
-I'd suggest looking at the flights dataset from lab 6, which I attached as `flights.csv.gz`.  
+I'd suggest looking at the flights dataset from lab 6, which I attached as `flights.csv.gz`.
 I picked out city pairs with more than 100 flights between them in the dataset and put them on the graph.  
 When you load in the new dataset, pay attention to what the columns of `graph.csv` are called, and how they get referred to in `d3.csv()` in `index.html`.
 
